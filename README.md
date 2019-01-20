@@ -6,7 +6,7 @@ Serverside is working with Node.js, Express and mongoose.
 The frontend is created with the framework Vue.
 For the layout, I am using Materialize.
 
-# install dependencies
+# Clone the Project and install the dependencies
 cd j18-admin
 npm install
 
@@ -16,7 +16,7 @@ npm install
 cd j18-server
 npm install
 
-# serve with hot reload at localhost:8080
+# Serve at localhost
 cd j18-admin
 npm run dev
 
