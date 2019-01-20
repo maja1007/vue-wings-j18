@@ -26,8 +26,8 @@ npm run dev
 cd j18-server
 node server
 
-# build for production with minification
+# Build for production with minification
 npm run build (prepared for build on heroku)
 
-# build for production and view the bundle analyzer report
+# Build for production and view the bundle analyzer report
 npm run build --report
