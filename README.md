@@ -1,7 +1,10 @@
 # Wings j18 - Admin, Client, Server
 
 
-> A Vue.js project 
+> A Vue.js project. My first Vue project with a server, admin- and client-side. 
+Serverside is working with Node.js, Express and mongoose.
+The frontend is created with the framework Vue.
+For the layout, I am using Materialize.
 
 # install dependencies
 cd j18-admin
